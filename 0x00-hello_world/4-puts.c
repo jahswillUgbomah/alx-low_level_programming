@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - compulsory function. This would printa shot sentence.
- * return: return 0 if properly nun. non-zero otherwise
+ * main - Entry point
+ *
+ * return: Always 0 (success)
  */
 int main(void)
 {
