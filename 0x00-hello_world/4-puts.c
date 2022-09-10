@@ -2,7 +2,7 @@
 
 /**
  * main - compulsory function. This would printa shot sentence.
- * return - 0 if properly run. non-zero otherwise
+ * return: 0 if properly run. non-zero otherwise
  */
 int main(void)
 {
