@@ -2,7 +2,7 @@
 
 /**
  * main - to show sizes of data types
- * return: 0 if properly run, non-zero otherwise
+ * Return: 0 if properly run, non-zero otherwise
  */
 
 int main(void)
