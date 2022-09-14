@@ -1,17 +1,8 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - takes in print function
+ * print_alphabet_x10 - print alphabets 10 times
  * Return: return 0
- */
-void print_alphabet_x10(void);
-int main(void)
-{
-	print_alphabet_x10();
-}
-
-/**
- * print_alphabet_x10 - prints alphabets 10 times. no return
  */
 void print_alphabet_x10(void)
 {
