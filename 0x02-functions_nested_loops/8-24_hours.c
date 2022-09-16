@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- *main - prints every minute of 24 hours
- *Return: retuen 0
+ *jack_bauer - prints every minute of 24 hours
  */
 void jack_bauer(void)
 {
