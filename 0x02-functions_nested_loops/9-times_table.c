@@ -4,6 +4,7 @@
  *main - prints 9 times table
  *Return: return 0
  */
+void times_table(void)
 {
 	int i, j, k;
 
