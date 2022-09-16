@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- *main - prints all natural numbers from n to 98
+ *print_to_98 - prints all natural numbers from n to 98
+ *@n: parameter to check
  *Return: retuen 0
  */
 void print_to_98(int n)
