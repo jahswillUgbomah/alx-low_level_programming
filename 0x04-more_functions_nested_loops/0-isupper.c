@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *main - checks uppercase
+ *_isupper - checks uppercase
  *@c: the parameter
  *Return: retuen 1 if c is uppercase, 0 otherwise
  */
