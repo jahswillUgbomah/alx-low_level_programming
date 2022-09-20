@@ -1,7 +1,7 @@
-#include "main"
+#include "main.h"
 
 /**
- * _strlen - returns the length of the strength
+ * _strlen - returns the length of the string
  * @s: parameter to evaluate
  * Return: the length of the string
  */
@@ -11,12 +11,10 @@ int _strlen(char *s)
 
 	i = 0;
 
-	while (s[i] != '0')
+	while (s[i] != '\0')
 	{
 		i++;
 	}
 	return (i);
-
-
 }
 
