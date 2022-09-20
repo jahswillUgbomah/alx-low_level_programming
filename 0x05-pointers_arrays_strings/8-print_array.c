@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _strlen - prints n elements of an array
+ * print_array - prints n elements of an array
  * @a: parameter to evaluate
  * @n: second parameter
  * Return: the length of the string
